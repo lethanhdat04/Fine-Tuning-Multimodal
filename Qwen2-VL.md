@@ -16,7 +16,7 @@
 
 Login to Hugging Face to upload your fine-tuned model!
 ```
-from huggingfaace_hub import notebook_login
+from huggingface_hub import notebook_login
 notebook_login()
 ```
 ### 2. Load Dataset
